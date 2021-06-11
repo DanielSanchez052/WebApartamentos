@@ -1,0 +1,12 @@
+.apartment_selected:hover{
+    cursor: pointer;
+    background-color: #32373d !important;
+}
+
+.a_none{
+    text-decoration: none;
+}
+.a_none:hover{
+    color: rgb(192, 196, 201) !important;
+}
+
